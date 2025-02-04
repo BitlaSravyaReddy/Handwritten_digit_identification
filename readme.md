@@ -15,6 +15,7 @@ This project is a deep learning model that classifies handwritten digits (0-9) u
 📂 Project Structure
 
 mnist_digit_recognition/
+
 │── MNIST_Digit_Recognition.ipynb  # Jupyter Notebook with full code
 
 │── 5.png                          # Sample handwritten digit image
