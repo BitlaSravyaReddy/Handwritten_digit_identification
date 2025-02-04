@@ -2,7 +2,7 @@
 
 This project is a deep learning model that classifies handwritten digits (0-9) using the MNIST dataset. The model is built using TensorFlow and Keras and implemented in a Jupyter Notebook.
 
-📌 Features
+📌 Features 
 ✅ Classifies handwritten digits (0-9) with 90%+ accuracy
 ✅ Implemented in Jupyter Notebook (.ipynb) for easy experimentation
 ✅ Uses TensorFlow and Keras for training and testing
