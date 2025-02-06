@@ -1,4 +1,4 @@
-🖥️ MNIST Handwritten Digit Recognition with TensorFlow (Jupyter Notebook)
+## 🖥️ MNIST Handwritten Digit Recognition with TensorFlow (Jupyter Notebook)
 
 This project is a deep learning model that classifies handwritten digits (0-9) using the MNIST dataset. The model is built using TensorFlow and Keras and implemented in a Jupyter Notebook.
 
