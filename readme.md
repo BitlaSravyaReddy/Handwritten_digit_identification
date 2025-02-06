@@ -12,6 +12,8 @@ This project is a deep learning model that classifies handwritten digits (0-9) u
 
 ✅ Supports custom handwritten digit images for predictions
 
+## Output
+
 ![Image](https://github.com/BitlaSravyaReddy/Handwritten_digit_identification/blob/master/Screenshot%202025-02-04%20234641.png)
 
 ## 📂 Project Structure
