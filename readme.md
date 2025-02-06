@@ -12,7 +12,7 @@ This project is a deep learning model that classifies handwritten digits (0-9) u
 
 ✅ Supports custom handwritten digit images for predictions
 
-"https://github.com/BitlaSravyaReddy/Handwritten_digit_identification/blob/master/netimg4.ppm"
+![Image](https://github.com/BitlaSravyaReddy/Handwritten_digit_identification/blob/master/netimg4.ppm)
 
 ## 📂 Project Structure
 
